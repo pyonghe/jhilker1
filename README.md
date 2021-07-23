@@ -33,3 +33,5 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
   
   ## Recent Blog Posts
   Interested in some of the things I write in my blog? Check them out here.
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
