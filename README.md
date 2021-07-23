@@ -22,9 +22,10 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
 [![Steam](https://img.shields.io/badge/-Steam-black?logo=steam&style=for-the-badge)](https://steamcommunity.com/id/WaitingCynicism/)
 [![Gitlab](https://img.shields.io/badge/-jhilker-blue?logo=gitlab&style=for-the-badge&logoColor=white)](https://gitlab.com/jhilker)
 [![Email](https://img.shields.io/badge/-Email-blue?logo=gmail&style=for-the-badge&logoColor=white)](mailto:jacob.hilker2@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-jhilker-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://linked.com/in/jhilker)
 
 <details>
-  <summary>Main Tech Skills</summary>
+  <summary><strong>Main Tech Skills</strong></summary>
   
   [![Python](https://img.shields.io/badge/-python-3776ab?logo=python&style=for-the-badge&logoColor=white)]()
   [![Hugo](https://img.shields.io/badge/-Hugo-ff4088?logo=hugo&style=for-the-badge&logoColor=white)]()
@@ -36,9 +37,17 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
   </details>
   
   <details>
-  <summary>Current Projects</summary>
+  <summary><strong>Current Projects</strong></summary>
   
   
+  </details>
+  
+  <details>
+  <summary><strong>Github Stats</strong></summary>
+  
+  ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhilker1&layout=compact&show_icons=true&theme=gruvbox&count_private=true)
+  &nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhilker1&hide=yasnippet,c&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/jhilker1)
   </details>
   
   ## Recent Blog Posts
@@ -51,4 +60,3 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
 - [Using Multireddits with Newsboat](https://jhilker.com/blog/2020/12/using-multireddits-with-newsboat/)
 <!-- BLOG-POST-LIST:END -->
 
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhilker1&layout=compact&show_icons=true&theme=gruvbox)
