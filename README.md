@@ -32,7 +32,7 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
   </details>
   
   ## Recent Blog Posts
-  Interested in some of the things I write in my blog? Check them out here.
+  Interested in some of the things I write on my blog? Check them out here.
   <!-- BLOG-POST-LIST:START -->
 - [Building Hydras for Org-roam](https://jhilker.com/blog/2021/06/building-hydras-for-org-roam/)
 - [My Org-Mode Workflow](https://jhilker.com/blog/2021/06/my-org-mode-workflow/)
