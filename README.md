@@ -11,13 +11,17 @@
 
 # Hi :wave:, I'm Jacob
 <img align="right" src="https://jhilker.com/pics/jhilker.jpg" style="border-radius: 50%;"/>
+
 Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, with my favorite game in particular being Super Metroid from the SNES. I recently graduated from the University of Mary Washington with a major in computer science and a minor in cybersecurity. Outside of programming, I enjoy sound design, worldbuilding, and playing music as a whole (drums, bass, and guitar).
+
 <br/>
 <br/>
+
 
 [![Website](https://img.shields.io/badge/-Website-blue?logo=org&style=for-the-badge&logoColor=white)](https://jhilker.com)
 [![Steam](https://img.shields.io/badge/-Steam-black?logo=steam&style=for-the-badge)](https://steamcommunity.com/id/WaitingCynicism/)
 [![Gitlab](https://img.shields.io/badge/-jhilker-blue?logo=gitlab&style=for-the-badge&logoColor=white)](https://gitlab.com/jhilker)
+[![Email](https://img.shields.io/badge/-Email-blue?logo=gmail&style=for-the-badge&logoColor=white)](mailto:jacob.hilker2@gmail.com)
 
 <details>
   <summary>Main Tech Skills</summary>
@@ -31,6 +35,12 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
 
   </details>
   
+  <details>
+  <summary>Current Projects</summary>
+  
+  
+  </details>
+  
   ## Recent Blog Posts
   Interested in some of the things I write on my blog? Check them out here.
   <!-- BLOG-POST-LIST:START -->
@@ -40,3 +50,5 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
 - [Featuring Site Content in Hugo](https://jhilker.com/blog/2021/02/featuring-site-content-in-hugo/)
 - [Using Multireddits with Newsboat](https://jhilker.com/blog/2020/12/using-multireddits-with-newsboat/)
 <!-- BLOG-POST-LIST:END -->
+
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhilker1&layout=compact&show_icons=true&theme=gruvbox)
