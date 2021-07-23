@@ -14,9 +14,16 @@
 
 Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, with my favorite game in particular being Super Metroid from the SNES. I recently graduated from the University of Mary Washington with a major in computer science and a minor in cybersecurity. Outside of programming, I enjoy sound design, worldbuilding, and playing music as a whole (drums, bass, and guitar).
 
-<br/>
-<br/>
+<details>
+  <summary><strong>Some Fun Facts</strong></summary>
+  
+  - I am the middle of a set of triplets (2 sisters).
+  - I started playing drums in 6th grade, then guitar in 11th, and finally bass my senior year of college.
+  - I am also working on 2 worldbuilding projects currently, one of which is an alternate history setting.
+  - One of my favorite bands is Coheed and Cambria.
+</details>
 
+<br/>
 
 [![Website](https://img.shields.io/badge/-Website-blue?logo=org&style=for-the-badge&logoColor=white)](https://jhilker.com)
 [![Steam](https://img.shields.io/badge/-Steam-black?logo=steam&style=for-the-badge)](https://steamcommunity.com/id/WaitingCynicism/)
@@ -39,6 +46,8 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
   <details>
   <summary><strong>Current Projects</strong></summary>
   
+  [![All For One](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=hugo-all-for-one&theme=gruvbox)](https://github.com/jhilker1/hugo-all-for-one)
+  [![Chronicler](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=chroniclerCK3&theme=gruvbox)](https://github.com/jhilker1/chroniclerCK3)
   
   </details>
   
