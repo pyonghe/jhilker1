@@ -58,6 +58,7 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
   &nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhilker1&hide=yasnippet,c&layout=compact&langs_count=8&theme=nord)](https://github.com/jhilker1)
   </details>
+  
   <details>
   
   <summary><strong>What I'm Listening To</strong></summary>
