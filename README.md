@@ -59,7 +59,12 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhilker1&hide=yasnippet,c&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/jhilker1)
   </details>
   
+## Recent Blog Posts
+Interested in some of the things I write on my blog? Check them out here.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  <div align="right">
   
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bqby3nrwzkqhio0yxezv77899&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=bqby3nrwzkqhio0yxezv77899&redirect=true)
+ </div>
   
-
-
