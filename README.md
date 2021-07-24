@@ -23,10 +23,7 @@
 I'm most comfortable working in Python, though I have experience with Javascript and HTML/CSS.
   </p>
 <br>
-<div align="left" style="color: white;">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bqby3nrwzkqhio0yxezv77899&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=bqby3nrwzkqhio0yxezv77899&redirect=true)
-</div>
+
   </div>
 <details>
   <summary><strong>Main Tech Skills</strong></summary>
@@ -47,11 +44,14 @@ I'm most comfortable working in Python, though I have experience with Javascript
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhilker1&hide=yasnippet,c&layout=compact&langs_count=8&theme=nord)](https://github.com/jhilker1)
   </details>
   
-  ## Featured Projects
-  These projects are my main projects currently.
+  <details>
+  <summary><strong>Primary Projects</strong></summary>
     
   [![All For One](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=hugo-all-for-one&theme=nord)](https://github.com/jhilker1/hugo-all-for-one)
   [![Chronicler](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=chroniclerCK3&theme=nord)](https://github.com/jhilker1/chroniclerCK3)
+  
+  </details>
+   
   
   ## Recent Blog Posts
 Interested in some of the things I write on my blog? Check them out here.
