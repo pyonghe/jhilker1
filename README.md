@@ -40,7 +40,6 @@ I'm most comfortable working in Python, though I have experience with Javascript
 
   </details>
   
-  ---
   ## Recent Blog Posts
 Interested in some of the things I write on my blog? Check them out here.
 
