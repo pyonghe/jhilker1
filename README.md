@@ -13,7 +13,7 @@
 [![Gitlab](https://img.shields.io/badge/-jhilker-blue?logo=gitlab&style=for-the-badge&logoColor=white)](https://gitlab.com/jhilker)
 [![Email](https://img.shields.io/badge/-Email-blue?logo=gmail&style=for-the-badge&logoColor=white)](mailto:jacob.hilker2@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-jhilker-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://linked.com/in/jhilker)
-<img src="https://jhilker.com/pics/jhilker.jpg" align="right" width="220px">
+<img src="https://jhilker.com/pics/jhilker.jpg" align="right"/>
 <!--img src='https://data.whicdn.com/images/354171585/original.gif' width='175px'-->
 <br>
 <p>
