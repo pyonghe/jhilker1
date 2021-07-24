@@ -10,7 +10,7 @@
 </div>
 
 # Hi :wave:, I'm Jacob
-<img align="right" src="https://jhilker.com/pics/jhilker.jpg" style="border-radius: 50%;"/>
+<img align="right" src="https://jhilker.com/pics/jhilker.jpg" style="width: 200px;"/>
 
 Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, with my favorite game in particular being Super Metroid from the SNES. I recently graduated from the University of Mary Washington with a major in computer science and a minor in cybersecurity. Outside of programming, I enjoy sound design, worldbuilding, and playing music as a whole (drums, bass, and guitar).
 
