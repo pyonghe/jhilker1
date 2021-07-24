@@ -39,6 +39,19 @@ I'm most comfortable working in Python, though I have experience with Javascript
   [![Javascript](https://img.shields.io/badge/-Javascript-red?logo=javascript&style=for-the-badge&logoColor=white)]()
 
   </details>
+   <details>
+  <summary><strong>Github Stats</strong></summary>
+  
+  ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhilker1&layout=compact&show_icons=true&theme=nord&count_private=true)
+  &nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhilker1&hide=yasnippet,c&layout=compact&langs_count=8&theme=nord)](https://github.com/jhilker1)
+  </details>
+  
+  ## Featured Projects
+  These projects are my main projects currently.
+    
+  [![All For One](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=hugo-all-for-one&theme=nord)](https://github.com/jhilker1/hugo-all-for-one)
+  [![Chronicler](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=chroniclerCK3&theme=nord)](https://github.com/jhilker1/chroniclerCK3)
   
   ## Recent Blog Posts
 Interested in some of the things I write on my blog? Check them out here.
