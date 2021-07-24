@@ -54,4 +54,9 @@ Interested in some of the things I write on my blog? Check them out here.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#3](https://github.com/jhilker1/hugo-all-for-one/issues/3) in [jhilker1/hugo-all-for-one](https://github.com/jhilker1/hugo-all-for-one)
+2. 🗣 Commented on [#3](https://github.com/jhilker1/hugo-all-for-one/issues/3) in [jhilker1/hugo-all-for-one](https://github.com/jhilker1/hugo-all-for-one)
+3. ❗️ Opened issue [#3](https://github.com/jhilker1/hugo-all-for-one/issues/3) in [jhilker1/hugo-all-for-one](https://github.com/jhilker1/hugo-all-for-one)
+4. ❗️ Opened issue [#2](https://github.com/jhilker1/hugo-all-for-one/issues/2) in [jhilker1/hugo-all-for-one](https://github.com/jhilker1/hugo-all-for-one)
+5. ❗️ Opened issue [#1](https://github.com/jhilker1/hugo-all-for-one/issues/1) in [jhilker1/hugo-all-for-one](https://github.com/jhilker1/hugo-all-for-one)
 <!--END_SECTION:activity-->
