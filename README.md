@@ -46,17 +46,17 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
   <details>
   <summary><strong>Current Projects</strong></summary>
   
-  [![All For One](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=hugo-all-for-one&theme=gruvbox)](https://github.com/jhilker1/hugo-all-for-one)
-  [![Chronicler](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=chroniclerCK3&theme=gruvbox)](https://github.com/jhilker1/chroniclerCK3)
+  [![All For One](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=hugo-all-for-one&theme=nord)](https://github.com/jhilker1/hugo-all-for-one)
+  [![Chronicler](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=chroniclerCK3&theme=nord)](https://github.com/jhilker1/chroniclerCK3)
   
   </details>
   
   <details>
   <summary><strong>Github Stats</strong></summary>
   
-  ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhilker1&layout=compact&show_icons=true&theme=gruvbox&count_private=true)
+  ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhilker1&layout=compact&show_icons=true&theme=nord&count_private=true)
   &nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhilker1&hide=yasnippet,c&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/jhilker1)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhilker1&hide=yasnippet,c&layout=compact&langs_count=8&theme=nord)](https://github.com/jhilker1)
   </details>
   <details>
   
