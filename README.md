@@ -58,9 +58,19 @@ Hi, I'm Jacob, an avid gamer (both tabletop and video games) and programmer, wit
   &nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhilker1&hide=yasnippet,c&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/jhilker1)
   </details>
+  <details>
   
+  <summary><strong>What I'm Listening To</strong></summary>
+   <div>
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bqby3nrwzkqhio0yxezv77899&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=bqby3nrwzkqhio0yxezv77899&redirect=true)
+ </div>
+ </details>
+ 
 ## Recent Blog Posts
 Interested in some of the things I write on my blog? Check them out here.
+
+  
 <!-- BLOG-POST-LIST:START -->
 - [Building Hydras for Org-roam](https://jhilker.com/blog/2021/06/building-hydras-for-org-roam/)
 - [My Org-Mode Workflow](https://jhilker.com/blog/2021/06/my-org-mode-workflow/)
@@ -68,8 +78,4 @@ Interested in some of the things I write on my blog? Check them out here.
 - [Featuring Site Content in Hugo](https://jhilker.com/blog/2021/02/featuring-site-content-in-hugo/)
 - [Using Multireddits with Newsboat](https://jhilker.com/blog/2020/12/using-multireddits-with-newsboat/)
 <!-- BLOG-POST-LIST:END -->
-  <div align="right">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bqby3nrwzkqhio0yxezv77899&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=bqby3nrwzkqhio0yxezv77899&redirect=true)
- </div>
-  
+ 
