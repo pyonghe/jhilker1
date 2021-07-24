@@ -55,6 +55,11 @@ I'm most comfortable working in Python, though I have experience with Javascript
   ## ✏️ Recent Blog Posts
 Interested in some of the things I write on my blog? Check them out here.
 <!-- BLOG-POST-LIST:START -->
+- [Building Hydras for Org-roam](https://jhilker.com/blog/2021/06/building-hydras-for-org-roam/)
+- [My Org-Mode Workflow](https://jhilker.com/blog/2021/06/my-org-mode-workflow/)
+- [Using A Makefile With My Website](https://jhilker.com/blog/2021/03/using-a-makefile-with-my-website/)
+- [Featuring Site Content in Hugo](https://jhilker.com/blog/2021/02/featuring-site-content-in-hugo/)
+- [Using Multireddits with Newsboat](https://jhilker.com/blog/2020/12/using-multireddits-with-newsboat/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activity
