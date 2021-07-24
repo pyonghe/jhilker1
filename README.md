@@ -36,7 +36,7 @@ I'm most comfortable working in Python, though I have experience with Javascript
 
   </details>
    <details>
-  <summary><strong>Github Stats</strong></summary>
+  <summary><strong>:octocat: Github Stats</strong></summary>
   
   ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhilker1&layout=compact&show_icons=true&theme=nord&count_private=true)
   &nbsp;
@@ -44,14 +44,26 @@ I'm most comfortable working in Python, though I have experience with Javascript
   </details>
   
   <details>
-  <summary><strong>Primary Projects</strong></summary>
+  <summary><strong>📓 Primary Projects</strong></summary>
     
   [![All For One](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=hugo-all-for-one&theme=nord)](https://github.com/jhilker1/hugo-all-for-one)
   [![Chronicler](https://github-readme-stats.vercel.app/api/pin/?username=jhilker1&repo=chroniclerCK3&theme=nord)](https://github.com/jhilker1/chroniclerCK3)
   
   </details>
    
+  <details>
+  <summary><strong>🎵 Recently Listened To</strong></summary> 
   
+  ![Recently Listened To](https://spotify-recently-played-readme.vercel.app/api?user=bqby3nrwzkqhio0yxezv77899&count=3)
+  </details>
+
+<details>
+  <summary><strong>🎸 Currently Listening To</strong></summary>
+  
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bqby3nrwzkqhio0yxezv77899&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=bqby3nrwzkqhio0yxezv77899&redirect=true)
+  </details>
+  
+  ---
   ## ✏️ Recent Blog Posts
 Interested in some of the things I write on my blog? Check them out here.
 <!-- BLOG-POST-LIST:START -->
