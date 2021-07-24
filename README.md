@@ -33,7 +33,6 @@ I'm most comfortable working in Python, though I have experience with Javascript
   [![Postgres](https://img.shields.io/badge/-Postgres-4169e1?logo=postgresql&style=for-the-badge&logoColor=white)]()
   [![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge&logoColor=white)]()
   [![Javascript](https://img.shields.io/badge/-Javascript-red?logo=javascript&style=for-the-badge&logoColor=white)]()
-
   </details>
    <details>
   <summary><strong>:octocat: Github Stats</strong></summary>
