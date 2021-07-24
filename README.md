@@ -79,3 +79,6 @@ Interested in some of the things I write on my blog? Check them out here.
 - [Using Multireddits with Newsboat](https://jhilker.com/blog/2020/12/using-multireddits-with-newsboat/)
 <!-- BLOG-POST-LIST:END -->
  
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
