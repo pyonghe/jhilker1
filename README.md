@@ -13,8 +13,7 @@
 [![Gitlab](https://img.shields.io/badge/-jhilker-blue?logo=gitlab&style=for-the-badge&logoColor=white)](https://gitlab.com/jhilker)
 [![Email](https://img.shields.io/badge/-Email-blue?logo=gmail&style=for-the-badge&logoColor=white)](mailto:jacob.hilker2@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-jhilker-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://linked.com/in/jhilker)
-
-<img src="https://jhilker.com/pics/jhilker.jpg" align="right">
+<img src="https://jhilker.com/pics/jhilker.jpg">
 <!--img src='https://data.whicdn.com/images/354171585/original.gif' width='175px'-->
 <br>
 <p>
@@ -53,4 +52,14 @@ I'm most comfortable working in Python, though I have experience with Javascript
   </details>
    
   
- 
+  ## Recent Blog Posts
+Interested in some of the things I write on my blog? Check them out here.
+
+  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
