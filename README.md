@@ -64,4 +64,3 @@ Interested in some of the things I write on my blog? Check them out here.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
