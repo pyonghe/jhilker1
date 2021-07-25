@@ -25,7 +25,7 @@ I'm most comfortable working in Python, though I have experience with Javascript
 
   </div>
 <details>
-  <summary><strong>Main Tech Skills</strong></summary>
+  <summary><strong>:computer: Main Tech Skills</strong></summary>
   
   [![Python](https://img.shields.io/badge/-python-3776ab?logo=python&style=for-the-badge&logoColor=white)]()
   [![Hugo](https://img.shields.io/badge/-Hugo-ff4088?logo=hugo&style=for-the-badge&logoColor=white)]()
